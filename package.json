@@ -2,12 +2,13 @@
   "name": "k-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kalyoktown.github.io/k-website/",
+  "homepage": "https://kalyok.com/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "yarn": "^1.15.2"
   },
   "scripts": {
     "start": "react-scripts start",
